@@ -1,4 +1,5 @@
-# C O M I N G    S O O N
+# C O M I N G    S O O N . . .
+## after some days...
 
 # Primo JavaScript Library
 Primo JavaScript Personal Library.
