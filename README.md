@@ -1,5 +1,5 @@
 ### C O M I N G    S O O N . . .
-## ON DEVELOPMENT...
+### ON DEVELOPMENT...
 
 # Primo.js
 Simple Native/Pure JavaScript Library Without Any Library or Framework.
