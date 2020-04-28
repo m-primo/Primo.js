@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Primo.js Example Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="Primo.js"></script>
+    <style type="text/css">
+
+    </style>
+</head>
+<body>
+
+    <button class="btn_x" onclick="go('https://google.com', true)">Google [new window]</button>
+    <button class="btn_x" onclick="go('https://google.com')">Google [self window]</button>
+
+    <button id="rr" onclick="reload()">Reload</button>
+
+    <button onclick="warn('?new=person', 'Do you want to create a new person?')">Create New Person</button>
+
+    <button onclick="doc(this).process()">Earn</button>
+    
+    <button onclick="doc(this).text = math.randInt(1, 99)">Random Integer</button>
+
+    <button onclick="doc('#testD').text = doc(this).text">Set my text to another plz xD</button>
+
+    <button onclick="doc(this).text = 'changed'">change text</button>
+
+    <button onclick="doc('.testC').text = 'haa changed'">change text of class testC</button>
+
+    <button onclick="doc('p').toggle()">toggle all Ps</button>
+
+    <button onclick="doc('#dotsLoader').loadingDots()">Dots Loader</button>
+    
+    <button onclick="doc('#maxNum').text = math.findMax(1,2,3,484,11,22,78,1544,222)">Find maximum number of (1,2,3,484,11,22,78,1544,222)</button>
+    <button onclick="doc('#sumNum').text = math.sumAll(1,2,3,484,11,22,78,1544,222)">sum. all the numbers of (1,2,3,484,11,22,78,1544,222)</button>
+    <button onclick="doc('#subNum').text = math.subAll(1,2,3,484,11,22,78,1544,222)">sub. all the numbers of (1,2,3,484,11,22,78,1544,222)</button>
+
+    <p id="subNum">here will show the sub. of the numbers</p>
+    <p id="sumNum">here will show the sum. of the numbers</p>
+    <p id="maxNum">here will show the max. number</p>
+    <p id="dotsLoader">Loading Dots</p>
+    <p id="testD" class="testC">hhhhhhhhhhhhhhhhhhhhhhhhh</p>
+    <p class="testC">weretrytryr</p>
+    <p class="testC">hhhhhhhhytuyuyuthhhhhhhhhhhhhhhhh</p>
+    <p class="testC">hhuyuyuuuuuuuuuuuhhhhhutyuuhhhhhhhhhhhhhhhhhh</p>
+
+</body>
+</html>
