@@ -55,10 +55,39 @@ To find more, please check the [documentation](docs/documentation.md) & html tes
 don't forget to check the console.
 
 
+## Changelog
+* Version 1 -> closed-source, 'Primo JavaScript Library V1.0'.
+* Version 2 -> open-source, 'Primo JS Library'.
+* Version 3 -> open-source, 'Primo.js'.
+
+(Time in UTC)
+* Created                 [   Sep 07, 2017 22:26    ]
+* Fully changed           [   May 10, 2019 14:19    ]
+* Open Source             [   May 16, 2019 08:26    ]
+* Version 3               [   Jun 22, 2019 05:18    ]
+* Last source update      [   Oct 23, 2019 16:04    ]
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
+## Copyright
+(C) Primo
+
+https://primodpd.blogspot.com
+
+https://mp-primo.blogspot.com
+
+https://mp-primo.blogspot.com/primo
+
+https://github.com/m-primo/Primo.js
+
+Open-Source, MIT License
+
+Primo.js
 
 
 ## License
