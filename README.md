@@ -47,4 +47,9 @@ Paste this code in ```<head>```.
 
 ---
 
-To find more, please check the [html page](test/primojs.html) & the [documentation](docs/documentation.md).
+To find more, please check the [documentation](docs/documentation.md) & html test pages:
+* [main test source](test/primojs.html) - [main test view](https://m-primo.github.io/Primo.js/test/primojs.html)
+* [minified test source](test/mintest.html) - [minified test view](https://m-primo.github.io/Primo.js/test/mintest.html)
+* [cdn test source](test/cdntest.html) - [cdn test view](https://m-primo.github.io/Primo.js/test/cdntest.html)
+
+don't forget to check the console.
