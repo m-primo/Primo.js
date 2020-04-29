@@ -1,3 +1,4 @@
+# Documentation
 * Between brackets ([data_type argument = value]), optional argument 'argument' of data type 'data_type' with default value 'value'.
 * Example of an element in this documentation:
 
@@ -54,7 +55,7 @@ Scroll by x, y.
 
 ---
 
-# eMath [math]
+## eMath
 ### ```math.property```
 ```math = (new eMath())```
 
@@ -136,8 +137,9 @@ Get the division of all numbers from all the arguments.
 
 Get the multiplication of all numbers from all the arguments.
 
+---
 
-# Document(selector) [doc(selector)]
+## Document
 ### ```doc(selector).property```
 ```doc = function(e){return (new Document(e))}```
 
@@ -223,4 +225,4 @@ This will put three loading dots at the end of the text.
 
 ---
 
-*April 29, 2020 22:30 UTC*
+*April 29, 2020 22:38 UTC*
