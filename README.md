@@ -1,5 +1,4 @@
 ### ON DEVELOPMENT...
-### Documentation is on progress.
 ---
 # Primo.js
 Simple Native/Pure JavaScript Library Without Any Library or Framework.
@@ -36,4 +35,4 @@ Simple Native/Pure JavaScript Library Without Any Library or Framework.
 
 ---
 
-To find more, please check the html page.
+To find more, please check the [html page](test/primojs.html) & the [documentation](doc/documentation.md).
