@@ -1,7 +1,10 @@
 ### ON DEVELOPMENT...
+
 ---
+
 # Primo.js
 Simple Native/Pure JavaScript Library Without Any Library or Framework.
+
 
 # Why Primo.js?
 - Native/Pure JavaScript without any library or framework.
@@ -12,7 +15,15 @@ Simple Native/Pure JavaScript Library Without Any Library or Framework.
 - Small file size.
 - CDN available with GitHub to be instantly updated.
 
+
 # Usage
+## CDN
+```html
+<script src="https://m-primo.github.io/Primo.js/src/Primo.min.js"></script>
+```
+
+
+# Example
 ## Document -class-, doc -variable-
 ### Selectors:
 * .selector = class
@@ -35,4 +46,4 @@ Simple Native/Pure JavaScript Library Without Any Library or Framework.
 
 ---
 
-To find more, please check the [html page](test/primojs.html) & the [documentation](doc/documentation.md).
+To find more, please check the [html page](test/primojs.html) & the [documentation](docs/documentation.md).
