@@ -18,6 +18,7 @@ Simple Native/Pure JavaScript Library Without Any Library or Framework.
 
 # Usage
 ## CDN
+Paste this code in ```<head>```.
 ```html
 <script src="https://m-primo.github.io/Primo.js/src/Primo.min.js"></script>
 ```
