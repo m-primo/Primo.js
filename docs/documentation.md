@@ -1,5 +1,5 @@
 # Documentation
-* Between brackets ([data_type argument = value]), optional argument 'argument' of data type 'data_type' with default value 'value'.
+* The data between brackets ([data_type argument = value]): optional argument 'argument' of data type 'data_type' with default value 'value'.
 * Example of an element in this documentation:
 
 ## property_name -> Property Name
@@ -225,4 +225,4 @@ This will put three loading dots at the end of the text.
 
 ---
 
-*April 29, 2020 22:38 UTC*
+*April 29, 2020 22:39 UTC*
